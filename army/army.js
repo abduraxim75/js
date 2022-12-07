@@ -12,7 +12,7 @@ if(g>=18 && h>=60 && i>=165){
     alert('tabriklaymiz armiyaga qabul qilindingiz')
 }
 else{
-    alert('damizi olin')
+    alert('qaysidur jihatingiz togri kelmadi')
 }
 
 }
